@@ -1,0 +1,11 @@
+{
+    "name": "Tournament",
+    "alias": "tournament",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Tournament\\Providers\\TournamentServiceProvider"
+    ],
+    "files": []
+}

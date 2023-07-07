@@ -1,0 +1,20 @@
+{
+    "Setting": true,
+    "Blog": true,
+    "Advertisement": true,
+    "Faq": true,
+    "Slider": true,
+    "Team": true,
+    "Testimonial": true,
+    "User": true,
+    "Vacancy": true,
+    "Language": true,
+    "Menu": true,
+    "Event": true,
+    "Player": true,
+    "Match": true,
+    "Subscription": true,
+    "Gallery": true,
+    "Contact": true,
+    "Tournament": true
+}
